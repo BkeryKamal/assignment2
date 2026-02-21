@@ -1,5 +1,5 @@
-#ifndef lib_inha_h
-#define lib_inha_h
+#ifndef lib_inhe_h
+#define lib_inhe_h
 #include<iostream>
 #include<string>
 
