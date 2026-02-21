@@ -1,5 +1,5 @@
 #include<iostream>
-#include"lib_inha.h"
+#include"lib_inhe.h"
 
 
 int main(){
